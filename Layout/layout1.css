@@ -1,0 +1,34 @@
+.item2{
+background-color: gray;
+height: 25px;
+text-align: center;
+padding: 10px;
+margin-bottom: 5px;
+}
+.item8{
+    background-color: gray;
+width: 150px;
+float: left;
+height: 224px;
+margin: 1px 10px 1px 1px;
+}
+.item5{
+    
+    height: 25px;
+display: flex;
+background-color: gray;
+justify-content: center;
+  }
+.item6{
+    height: 195px;
+background-color: gray;
+display: flex;
+margin: 5px 0px 0px 0px;
+justify-content: center;
+}
+.item7{
+    background-color: gray;
+text-align: center;
+margin-top: 5px;
+padding: 20px;
+}
